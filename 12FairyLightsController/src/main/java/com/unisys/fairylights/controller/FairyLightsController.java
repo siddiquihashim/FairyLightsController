@@ -22,6 +22,7 @@ public class FairyLightsController {
 	}
 
 	/**
+	 * 
 	 * @param displayStrategy
 	 * @param numberOfLights
 	 *            length of fairy lights
